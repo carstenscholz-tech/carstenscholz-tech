@@ -17,10 +17,11 @@ By night I run [Biological Games](https://biological.games) — a small indie st
 
 | Repo | What it is |
 |---|---|
+| [**Automarium**](https://github.com/carstenscholz-tech/Automarium) | **Premier project** — a multi-agent app-delivery and continuous-evolution platform: local control plane, corporate-style agent organisation working from versioned build specs, isolated delivery workspaces, immutable evidence history, and governed, reversible shipping controls |
 | [guildmaster](https://github.com/carstenscholz-tech/guildmaster) | AI Guild Master agent for WoW Classic — Discord-native, Claude Agent SDK, every sensitive action gated behind officer approval (TypeScript, MCP, SQLite) |
+| [darwinism](https://github.com/carstenscholz-tech/darwinism) | Research dashboard for a portfolio of apps — scans repos and product context, ranks and triages feature ideas, and prepares Claude/Codex handoff prompts for implementation runs |
 | [activitylog](https://github.com/carstenscholz-tech/activitylog) | Always-on local activity logger and dashboard for macOS — multi-source collectors (git, Slack, Teams, calendar, browsers, Claude/Codex sessions), local SQLite, privacy-first redaction, AI-generated summaries |
 | [rpg-pipeline](https://github.com/carstenscholz-tech/rpg-pipeline) | Automated RPG game-dev pipeline — AI-driven content, art and code generation (Godot + Python) |
-| *more going public soon* | Agent platforms and analysis tooling being cleaned up for release |
 
 ## Links
 
