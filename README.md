@@ -17,8 +17,9 @@ By night I run [Biological Games](https://biological.games) — a small indie st
 
 | Repo | What it is |
 |---|---|
+| [guildmaster](https://github.com/carstenscholz-tech/guildmaster) | AI Guild Master agent for WoW Classic — Discord-native, Claude Agent SDK, every sensitive action gated behind officer approval (TypeScript, MCP, SQLite) |
 | [rpg-pipeline](https://github.com/carstenscholz-tech/rpg-pipeline) | Automated RPG game-dev pipeline — AI-driven content, art and code generation (Godot + Python) |
-| *more going public soon* | Agent platforms, analysis tooling and game projects being cleaned up for release |
+| *more going public soon* | Agent platforms and analysis tooling being cleaned up for release |
 
 ## Links
 
