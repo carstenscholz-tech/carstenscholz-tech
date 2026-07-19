@@ -4,7 +4,7 @@
 
 By day I run enterprise AI at [Origin Energy](https://www.originenergy.com.au/) — primary owner and administrator of our Claude Enterprise and ChatGPT Enterprise platforms (2,500+ users), and the key builder of the MCP servers, Claude Skills and plugins that connect them to real workflows. Underneath that sits the agent platform I built on AWS: Bedrock AgentCore, an MCP gateway, and production agents serving retail and DevOps teams daily.
 
-By night I run [Biological Games](https://biological.games) — a small indie studio making premium mobile games with an AI-heavy development pipeline. **Pulse** is out now on Google Play; **Surge** is next.
+By night I run [Biological Games](https://biological.games) — a small indie studio making premium mobile games with an AI-native production pipeline. **Pulse** (one-thumb twitch roguelike — React 18/TypeScript, PixiJS, Capacitor, 430+ automated tests) is out now on Google Play; **Surge** (Unity/C# roguelike shoot-'em-up with nightly Android CI and automated encounter test suites) is next. A solo studio run like a small team: AI-authored specs and design system, 140 scoped issues across 6 milestones, coding agents shipping PR by PR.
 
 ## What I work on
 
